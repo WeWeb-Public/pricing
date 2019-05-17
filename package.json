@@ -1,9 +1,9 @@
 {
-  "name": "public-dynamic-features",
+  "name": "pricing",
   "type": "section",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chihabeeddine/public-dynamic-features"
+    "url": "https://github.com/WeWeb-Public/pricing.git"
   },
   "version": "0.0.4",
   "private": true,

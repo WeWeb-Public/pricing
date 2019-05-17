@@ -1,11 +1,11 @@
 module.exports = [
     {
-        name: 'product-team',
+        name: 'pricing',
         storeName: {
-            en_GB: "Product team"
+            en_GB: "Pricing section"
         },
         storeDesc: {
-            en_GB: "Feature section with a product team example"
+            en_GB: "Pricing section with customizable features"
         }
     }
 ]
