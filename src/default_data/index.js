@@ -1,6 +1,7 @@
 module.exports = [
     {
         name: 'pricing',
+        category: 'features',
         storeName: {
             en_GB: "Pricing section"
         },
